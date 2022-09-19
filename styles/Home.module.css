@@ -1,0 +1,10 @@
+.post{
+  border: rgb(255, 165, 105) 10px solid;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 5px;
+}
+
+.post p{
+  margin: 0;
+}
